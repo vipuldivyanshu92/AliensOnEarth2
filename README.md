@@ -7,23 +7,23 @@ To run this , got to the classes folder and execute the following
 
 from the classes folder run 
 
-#java Main
+> java Main
 
 or 
 
-from the classes folde run
+from the classes folder run
 
-#Main.jar
+Main.jar
 
 To compile java classes use the following 
 
-javac -cp ../PDF.jar -d ../classes *.java
+> javac -cp ../PDF.jar -d ../classes *.java
 
 This will create the new .class files in classes folder
 
 These can be then executed with 
 
-java Main command
+> java Main 
 
 Adding plugins for export format
 
